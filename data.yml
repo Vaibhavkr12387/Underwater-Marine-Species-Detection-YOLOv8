@@ -1,0 +1,7 @@
+path: /tmp/aquarium_pretrain
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
